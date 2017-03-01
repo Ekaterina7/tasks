@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nok", "nok\nok.csproj", "{2286C1AF-90B5-448B-9D5F-5D3D92D2EDCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "happy_number", "happy_number\happy_number.csproj", "{D0FE3E23-898D-4BAF-ABC4-16B9FD044489}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "happy_ticket", "happy_ticket\happy_ticket.csproj", "{6285F79D-250B-4FFB-BE76-AA117C781DEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2286C1AF-90B5-448B-9D5F-5D3D92D2EDCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2286C1AF-90B5-448B-9D5F-5D3D92D2EDCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2286C1AF-90B5-448B-9D5F-5D3D92D2EDCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2286C1AF-90B5-448B-9D5F-5D3D92D2EDCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0FE3E23-898D-4BAF-ABC4-16B9FD044489}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0FE3E23-898D-4BAF-ABC4-16B9FD044489}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0FE3E23-898D-4BAF-ABC4-16B9FD044489}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0FE3E23-898D-4BAF-ABC4-16B9FD044489}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6285F79D-250B-4FFB-BE76-AA117C781DEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6285F79D-250B-4FFB-BE76-AA117C781DEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6285F79D-250B-4FFB-BE76-AA117C781DEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6285F79D-250B-4FFB-BE76-AA117C781DEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
