@@ -12,7 +12,7 @@ namespace happy_number
         {
             
 
-            for (int i = 1000; i < 1000; i++)
+            for (int i = 1000; i < 10000; i++)
             {
                 int half1 = Half1(i);
                 int half2 = Half2(i);
@@ -51,11 +51,11 @@ namespace happy_number
             
             if (summ1 == summ2)
             {
-                Console.WriteLine("happy" );
+                Console.WriteLine(" happy" );
             }
             else
             {
-                Console.WriteLine("unhappy" );
+                Console.WriteLine(" unhappy" );
             }
 
         }

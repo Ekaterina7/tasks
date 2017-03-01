@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "happy_number", "happy_numbe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "happy_ticket", "happy_ticket\happy_ticket.csproj", "{6285F79D-250B-4FFB-BE76-AA117C781DEC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dispersia", "dispersia\dispersia.csproj", "{368901C3-FF82-4AD3-A7B6-88AEDECD5F69}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{6285F79D-250B-4FFB-BE76-AA117C781DEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6285F79D-250B-4FFB-BE76-AA117C781DEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6285F79D-250B-4FFB-BE76-AA117C781DEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{368901C3-FF82-4AD3-A7B6-88AEDECD5F69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{368901C3-FF82-4AD3-A7B6-88AEDECD5F69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{368901C3-FF82-4AD3-A7B6-88AEDECD5F69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{368901C3-FF82-4AD3-A7B6-88AEDECD5F69}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
