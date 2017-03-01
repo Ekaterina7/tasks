@@ -12,10 +12,10 @@ namespace dispersia
         {
             int[] mas;
             mas = new int[7];
-         int mid =    MiddlZnachenie(mas);
-         Console.WriteLine(mid);
-         Dispersia(mas);
-            
+            int mid = MiddlZnachenie(mas);
+            Console.WriteLine(mid);
+            Dispersia(mas);
+
 
         }
 
@@ -34,7 +34,7 @@ namespace dispersia
         static int MiddlZnachenie(int[] mas)
         {
             mas = ZapolnenieMass(mas, 2, 9);
-            int summ=0;
+            int summ = 0;
             for (int i = 0; i < mas.Length; i++)
             {
                 summ = summ + mas[i];

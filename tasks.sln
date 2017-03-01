@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "happy_ticket", "happy_ticke
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dispersia", "dispersia\dispersia.csproj", "{368901C3-FF82-4AD3-A7B6-88AEDECD5F69}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "palindrome", "palindrome\palindrome.csproj", "{FD3EA0DE-B8D9-4E06-9084-A4ACA4C6632A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{368901C3-FF82-4AD3-A7B6-88AEDECD5F69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{368901C3-FF82-4AD3-A7B6-88AEDECD5F69}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{368901C3-FF82-4AD3-A7B6-88AEDECD5F69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD3EA0DE-B8D9-4E06-9084-A4ACA4C6632A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD3EA0DE-B8D9-4E06-9084-A4ACA4C6632A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD3EA0DE-B8D9-4E06-9084-A4ACA4C6632A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD3EA0DE-B8D9-4E06-9084-A4ACA4C6632A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
