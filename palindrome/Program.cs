@@ -10,6 +10,12 @@ namespace palindrome
     {
         static void Main(string[] args)
         {
+            int chislo = 123321;
+            int s = Counter(chislo);
+            Console.WriteLine(s);
+            int pow = Power10(s);
+            int half1 = FirstHalfChisla(chislo, pow);
+            int half2 = SecondHalfChisla(chislo, pow);
 
 
 
@@ -48,6 +54,32 @@ namespace palindrome
 
             int half2 = (int)(chislo % Math.Pow(10, pow));
             return half2;
+
+        }
+
+        static int ZapisNaooborot(int half2)
+        {
+            string halfnaoborot = " ";
+            while (half2 == 0)
+            {
+                halfnaoborot = Convert.ToString(half2 % 10) + halfnaoborot;
+                half2 = half2 / 10;
+
+            }
+            int halfnaoborottoint = Convert.ToInt32(halfnaoborot);
+            return halfnaoborottoint;
+        }
+
+        static void Sravnenie(int s1, int half1)
+        {
+
+            if (s1 == half1)
+
+                Console.WriteLine("palindrome");
+            else
+
+                Console.WriteLine("nopalindrome");
+
 
         }
     }

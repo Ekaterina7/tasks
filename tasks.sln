@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dispersia", "dispersia\disp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "palindrome", "palindrome\palindrome.csproj", "{FD3EA0DE-B8D9-4E06-9084-A4ACA4C6632A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "plochad", "plochad\plochad.csproj", "{9D8FC48C-76DB-4968-B056-DB541A2BC776}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{FD3EA0DE-B8D9-4E06-9084-A4ACA4C6632A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD3EA0DE-B8D9-4E06-9084-A4ACA4C6632A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD3EA0DE-B8D9-4E06-9084-A4ACA4C6632A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D8FC48C-76DB-4968-B056-DB541A2BC776}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D8FC48C-76DB-4968-B056-DB541A2BC776}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D8FC48C-76DB-4968-B056-DB541A2BC776}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D8FC48C-76DB-4968-B056-DB541A2BC776}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
